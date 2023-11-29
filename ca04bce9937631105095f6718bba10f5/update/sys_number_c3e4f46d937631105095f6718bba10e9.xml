@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_772709_testing_a_test_data">x_772709_testing_a_test_data</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TES</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 20:51:17</sys_created_on>
+        <sys_id>c3e4f46d937631105095f6718bba10e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TES</sys_name>
+        <sys_package display_value="Testing App" source="x_772709_testing_a">ca04bce9937631105095f6718bba10f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing App">ca04bce9937631105095f6718bba10f5</sys_scope>
+        <sys_update_name>sys_number_c3e4f46d937631105095f6718bba10e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 20:51:17</sys_updated_on>
+    </sys_number>
+</record_update>

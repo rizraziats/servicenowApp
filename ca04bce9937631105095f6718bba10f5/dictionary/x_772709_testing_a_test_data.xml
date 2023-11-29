@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2e4f46d937631105095f6718bba10b5" label="Test Data" max_length="40" name="x_772709_testing_a_test_data" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="500" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="200" name="short_description" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="encode_utf8=false" label="Tested By" max_length="32" name="tested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Tested On" max_length="40" name="tested_on" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Test Name" mandatory="true" max_length="40" name="test_name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+        <index name="index2">
+            <element name="tested_by"/>
+        </index>
+    </element>
+</database>
