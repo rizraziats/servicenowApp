@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 17:51:24</sys_created_on>
+        <sys_id>69555139937a71105095f6718bba10d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_772709_testing_a_updated_data.x_772709_testing_a.updated_data_user</sys_name>
+        <sys_package display_value="Testing App" source="x_772709_testing_a">ca04bce9937631105095f6718bba10f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing App">ca04bce9937631105095f6718bba10f5</sys_scope>
+        <sys_security_acl display_value="x_772709_testing_a_updated_data">2d555139937a71105095f6718bba10d4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_69555139937a71105095f6718bba10d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 17:51:24</sys_updated_on>
+        <sys_user_role display_value="x_772709_testing_a.updated_data_user" name="x_772709_testing_a.updated_data_user">d9555139937a71105095f6718bba10a3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

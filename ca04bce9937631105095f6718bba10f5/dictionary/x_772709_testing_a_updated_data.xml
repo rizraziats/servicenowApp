@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9a051df5937a71105095f6718bba1034" label="Updated Data" max_length="40" name="x_772709_testing_a_updated_data" type="collection">
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element label="Short Description" max_length="150" name="short_description" type="string"/>
+    </element>
+</database>
